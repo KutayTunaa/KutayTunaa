@@ -1,5 +1,5 @@
 # 👾 About Me 👾
-🔭 I'm currently working on a mobile app for athletes<br>🤝 Looking for an internship<br>📱 Currently developing myself in the mobile sector<br>⚡  Looking forward to getting new experiences<br>✌️ Let's get contact
+🔭 I'm currently working on a mobile app for athletes<br>🤝 Looking for an internship<br>📱 Currently developing myself in the mobile sector<br>⚡ Looking forward to getting new experiences<br>✌️ Let's get contact
 
 
 ## 🌍 Socials:
