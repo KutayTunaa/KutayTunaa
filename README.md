@@ -1,5 +1,5 @@
 # 👾 About Me 👾
-🔭 I'm working on full-stack web development and mobile app development<br>🤝 Looking for an internship<br>📱 Currently working as a full-stack developer intern<br>🚀 Looking forward to getting new experiences<br>✌️ Let's get contact
+🔭 I'm working on web development and mobile app development<br>🤝 Looking for an internship<br>🚀 Looking forward to getting new experiences<br>✌️ Let's get contact
 
 
 ## 🌍 Socials:
