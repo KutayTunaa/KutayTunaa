@@ -1,5 +1,5 @@
 # 👾 About Me 👾
-🔭 I'm working on web development and mobile app development<br>🤝 Looking for an internship<br>🚀 Looking forward to getting new experiences<br>✌️ Let's get contact
+🔭 I'm currently pursuing a master degree at Jönköping University 🤝 Looking for an internship<br>🚀 Looking forward to getting new experiences<br>✌️ Let's get contact
 
 
 ## 🌍 Socials:
